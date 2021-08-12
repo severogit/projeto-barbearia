@@ -122,8 +122,9 @@ footer{
     font-size: 13px;
 }
 
-main{
-    
+.main-contato{
+        width:940px;
+        margin: 0 auto;
 }
 
 form{
